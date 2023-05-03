@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "iEdisonCore": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\example\\example.pfx\" pfxpassword \"https://api-iedisonuat.nist.gov\""
+    }
+  }
+}
